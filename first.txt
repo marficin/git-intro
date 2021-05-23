@@ -1,6 +1,4 @@
 Hello world!!!
 Austen
 After merging
-<<<<<<< HEAD
-ca 1820-1830
-=======
+ca 1820-1840
